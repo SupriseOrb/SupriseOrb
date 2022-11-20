@@ -1,7 +1,7 @@
 ### ✨Hello!
 
 I'm a games programmer and producer interested in shaders and editor tools. My passions lie in optimizing and organizing code and creating solutions to make games more accessible.
-You can check out [my portfolio here](https://sites.google.com/view/supriseorb/games).
+You can check out [my portfolio here](https://sites.google.com/view/supriseorb/).
 
 <!--
 **SupriseOrb/SupriseOrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
