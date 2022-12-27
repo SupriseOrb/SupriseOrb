@@ -1,6 +1,6 @@
 ### ✨Hello!
 
-I'm a games programmer and producer interested in shaders and editor tools. My passions lie in optimizing and organizing code and creating solutions to make games more accessible.
+I'm a indie game developer who specializes in managing small multi-disciplinary teams and providing technical support. My passions lie in optimizing and organizing code, and learning all things tech art which includes shaders, rigging, and tool development.
 You can check out [my portfolio here](https://sites.google.com/view/supriseorb/).
 
 <!--
