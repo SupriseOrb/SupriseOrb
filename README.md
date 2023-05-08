@@ -1,7 +1,6 @@
 ### ✨Hello!
 
-I'm a indie game developer who specializes in managing small multi-disciplinary teams and providing technical support. My passions lie in optimizing and organizing code, and learning all things tech art which includes shaders, rigging, and tool development.
-You can check out [my portfolio here](https://sites.google.com/view/supriseorb/).
+Hello! I'm SupriseOrb, a game developer looking for work as a generalist programmer either remote or based in the Los Angeles area. In the meantime, I’m currently developing a secret bullet hell game (TBA) and managing SupKal Games, a small community of indie developers. If you want to learn more about me, go checkout my [portfolio](https://sites.google.com/view/supriseorb/).
 
 <!--
 **SupriseOrb/SupriseOrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
