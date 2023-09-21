@@ -1,7 +1,6 @@
 ### ✨Hello!
 
-Hello! I'm SupriseOrb, a game developer looking for work as a generalist programmer either remote or based in the Los Angeles area. In the meantime, I’m currently developing a secret bullet hell game (TBA) and managing SupKal Games, a small community of indie developers. If you want to learn more about me, go checkout my [portfolio](https://sites.google.com/view/supriseorb/).
-
+Hello! I'm SupriseOrb, a game engineer who specializes in dialogue systems and UI in Unity. I’m looking to expand my skills by testing out different game engines and frameworks with a focus on technical art (shaders, rigging, procedural animation). If you want to learn more about me, checkout my [portfolio](https://sites.google.com/view/supriseorb/).
 <!--
 **SupriseOrb/SupriseOrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
